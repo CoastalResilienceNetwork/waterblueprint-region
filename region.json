@@ -10,7 +10,8 @@
         { "text": "Beyond the Source", "url": "http://www.nature.org/beyondthesource" },
         { "text": "Water Share", "url": "http://www.nature.org/watershare" },
         { "text": "Data Documentation", "url": "plugins/benefits_explorer/images/MethodsDocumentation.pdf" },
-        { "text": "Legal Disclosure", "url": "http://coastalresilience.org/terms-of-use/" }
+        { "text": "Legal Disclosure", "url": "http://coastalresilience.org/terms-of-use/" },
+        { "text": "Contact Us", "url": "mailto:water@tnc.org?subject=Protecting Water Question"}
     ],
     "initialExtent": [
         -130,
@@ -61,7 +62,7 @@
 				<p>From analyses of source watersheds of more than 4,000 large cities, <b>Beyond the Source</b> finds that natural solutions can improve water quality for four out 
 				of five cities and provide a variety of other co-benefits to people and nature. The report highlights water funds as a successful funding, governance, and implementation 
 				mechanism for source water protection.</p>
-				<p><b>Water Share</b> explores the potential for water markets and impact investment to enhance global water scarcity. Today, nearly half of all people are affected by global 
+				<p><b>Water Share</b> explores the potential for water markets and impact investment to enhance global water security. Today, nearly half of all people are affected by global 
 				water scarcity, and climate change will further exacerbate our water challenges. The report explores how water markets offer a powerful mechanism for alleviating scarcity, 
 				restoring ecosystems, and driving sustainable water management.</p>",
             "plugins": [
